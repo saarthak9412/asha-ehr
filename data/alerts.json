@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "type": "critical",
+    "title": "High Blood Sugar Alert",
+    "patientId": "2",
+    "patientName": "Rajesh Kumar",
+    "message": "Blood sugar levels consistently above 200 mg/dL. Immediate follow-up required.",
+    "priority": "high",
+    "timestamp": "2024-01-18T08:00:00",
+    "status": "active"
+  },
+  {
+    "id": "2",
+    "type": "warning",
+    "title": "Missed Vaccination",
+    "patientId": "5",
+    "patientName": "Meera Reddy",
+    "message": "Patient missed scheduled prenatal vaccination. Reschedule immediately.",
+    "priority": "high",
+    "timestamp": "2024-01-18T03:00:00",
+    "status": "active"
+  },
+  {
+    "id": "3",
+    "type": "info",
+    "title": "TB Treatment Progress",
+    "patientId": "4",
+    "patientName": "Arun Patel",
+    "message": "Patient showing good response to DOTS therapy. Continue monitoring.",
+    "priority": "medium",
+    "timestamp": "2024-01-17T10:00:00",
+    "status": "active"
+  }
+]

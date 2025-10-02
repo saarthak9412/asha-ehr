@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "title": "Maternal & Child Health",
+    "description": "Essential care for mothers and newborns",
+    "category": "Clinical",
+    "duration": "2h 30m",
+    "lessons": 8,
+    "completed": true,
+    "certificate": true
+  },
+  {
+    "id": "2",
+    "title": "Voice Recording Best Practices",
+    "description": "How to effectively use voice input for patient visits",
+    "category": "Technology",
+    "duration": "1h 15m",
+    "lessons": 5,
+    "completed": true,
+    "certificate": true
+  },
+  {
+    "id": "3",
+    "title": "Managing Chronic Diseases",
+    "description": "Diabetes, hypertension, and COPD management",
+    "category": "Clinical",
+    "duration": "3h 45m",
+    "lessons": 10,
+    "completed": true,
+    "certificate": true
+  },
+  {
+    "id": "4",
+    "title": "Emergency Response",
+    "description": "Handling medical emergencies in the field",
+    "category": "Clinical",
+    "duration": "1h 50m",
+    "lessons": 6,
+    "completed": false,
+    "certificate": false
+  }
+]
