@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "senderId": "Dr. Ananya Iyer",
+    "senderRole": "Supervisor",
+    "subject": "Weekly Report Reminder",
+    "preview": "Please submit your weekly patient visit report by Friday evening...",
+    "message": "Please submit your weekly patient visit report by Friday evening. Include all home visits and follow-ups.",
+    "timestamp": "2024-01-17T10:30:00",
+    "read": false,
+    "hasVoiceMessage": false
+  },
+  {
+    "id": "2",
+    "senderId": "Sunita Rao",
+    "senderRole": "ASHA Worker",
+    "subject": "Patient Transfer - Priya Sharma",
+    "preview": "I am transferring Priya Sharma to your area. She needs regular antenatal care...",
+    "message": "I am transferring Priya Sharma to your area. She needs regular antenatal care. Her last checkup was on Jan 15th. Please schedule her next visit.",
+    "timestamp": "2024-01-16T14:20:00",
+    "read": true,
+    "hasVoiceMessage": false
+  },
+  {
+    "id": "3",
+    "senderId": "PHC Bangalore",
+    "senderRole": "Health Center",
+    "subject": "Vaccination Camp - Jan 25",
+    "preview": "Vaccination camp scheduled for Jan 25 at Community Center...",
+    "message": "Vaccination camp scheduled for Jan 25 at Community Center. Please inform all eligible children and pregnant women in your area.",
+    "timestamp": "2024-01-15T09:00:00",
+    "read": true,
+    "hasVoiceMessage": true,
+    "voiceDuration": "1:45"
+  },
+  {
+    "id": "4",
+    "senderId": "Dr. Vikram Singh",
+    "senderRole": "Doctor",
+    "subject": "High-Risk Case Alert",
+    "preview": "Rajesh Kumar's blood sugar levels are concerning. Please do immediate follow-up...",
+    "message": "Rajesh Kumar's blood sugar levels are concerning. Please do immediate follow-up and ensure he's taking medications regularly.",
+    "timestamp": "2024-01-14T16:45:00",
+    "read": false,
+    "hasVoiceMessage": false
+  },
+  {
+    "id": "5",
+    "senderId": "Training Dept",
+    "senderRole": "Training",
+    "subject": "New Module Available",
+    "preview": "New training module on maternal health now available in your training section...",
+    "message": "New training module on maternal health now available in your training section. Please complete by end of month.",
+    "timestamp": "2024-01-13T11:00:00",
+    "read": true,
+    "hasVoiceMessage": false
+  }
+]
