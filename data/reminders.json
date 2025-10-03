@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "title": "Medicine Reminder - Priya Sharma",
+    "description": "Amlodipine 5mg - Morning dose",
+    "time": "08:00",
+    "date": "2024-10-03",
+    "type": "medication",
+    "priority": "high",
+    "patientId": "1",
+    "completed": false
+  },
+  {
+    "id": "2",
+    "title": "Follow-up Visit - Sunita Devi",
+    "description": "Diabetes check-up and blood sugar monitoring",
+    "time": "10:30",
+    "date": "2024-10-03",
+    "type": "appointment",
+    "priority": "medium",
+    "patientId": "2",
+    "completed": false
+  },
+  {
+    "id": "3",
+    "title": "DOTS Therapy - Kamala Bai",
+    "description": "Directly Observed Treatment - TB medication",
+    "time": "09:00",
+    "date": "2024-10-03",
+    "type": "medication",
+    "priority": "critical",
+    "patientId": "3",
+    "completed": true
+  },
+  {
+    "id": "4",
+    "title": "Prenatal Check - Lakshmi Verma",
+    "description": "28-week pregnancy check-up",
+    "time": "14:00",
+    "date": "2024-10-03",
+    "type": "appointment",
+    "priority": "high",
+    "patientId": "4",
+    "completed": false
+  },
+  {
+    "id": "5",
+    "title": "Community Health Meeting",
+    "description": "Monthly village health committee meeting",
+    "time": "16:00",
+    "date": "2024-10-03",
+    "type": "meeting",
+    "priority": "low",
+    "patientId": null,
+    "completed": false
+  },
+  {
+    "id": "6",
+    "title": "Iron Supplement - Sunita Devi",
+    "description": "Evening iron tablet with vitamin C",
+    "time": "19:00",
+    "date": "2024-10-03",
+    "type": "medication",
+    "priority": "medium",
+    "patientId": "2",
+    "completed": false
+  }
+]

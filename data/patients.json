@@ -1,0 +1,97 @@
+[
+  {
+    "id": "1",
+    "name": "Priya Sharma",
+    "age": 28,
+    "village": "Kumhari",
+    "phone": "+91 98765 43210",
+    "healthCard": "AHS001234567",
+    "lastVisit": "2024-10-01",
+    "status": "Active",
+    "riskLevel": "Low",
+    "conditions": ["Hypertension"],
+    "medications": ["Amlodipine 5mg"],
+    "allergies": ["Penicillin"],
+    "emergencyContact": {
+      "name": "Rajesh Sharma",
+      "relation": "Husband",
+      "phone": "+91 98765 43211"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Sunita Devi",
+    "age": 35,
+    "village": "Balodabazar",
+    "phone": "+91 98765 43212",
+    "healthCard": "AHS001234568",
+    "lastVisit": "2024-09-28",
+    "status": "Follow-up",
+    "riskLevel": "Medium",
+    "conditions": ["Diabetes Type 2", "Anemia"],
+    "medications": ["Metformin 500mg", "Iron tablets"],
+    "allergies": [],
+    "emergencyContact": {
+      "name": "Mohan Devi",
+      "relation": "Son",
+      "phone": "+91 98765 43213"
+    }
+  },
+  {
+    "id": "3",
+    "name": "Kamala Bai",
+    "age": 42,
+    "village": "Durg",
+    "phone": "+91 98765 43214",
+    "healthCard": "AHS001234569",
+    "lastVisit": "2024-09-25",
+    "status": "Critical",
+    "riskLevel": "High",
+    "conditions": ["Tuberculosis", "Malnutrition"],
+    "medications": ["DOTS therapy", "Nutritional supplements"],
+    "allergies": ["Streptomycin"],
+    "emergencyContact": {
+      "name": "Ravi Bai",
+      "relation": "Daughter",
+      "phone": "+91 98765 43215"
+    }
+  },
+  {
+    "id": "4",
+    "name": "Lakshmi Verma",
+    "age": 22,
+    "village": "Bhilai",
+    "phone": "+91 98765 43216",
+    "healthCard": "AHS001234570",
+    "lastVisit": "2024-09-30",
+    "status": "Pregnant",
+    "riskLevel": "Medium",
+    "conditions": ["Pregnancy - 28 weeks", "Iron deficiency"],
+    "medications": ["Folic acid", "Iron supplements"],
+    "allergies": [],
+    "emergencyContact": {
+      "name": "Dinesh Verma",
+      "relation": "Husband",
+      "phone": "+91 98765 43217"
+    }
+  },
+  {
+    "id": "5",
+    "name": "Radha Patel",
+    "age": 55,
+    "village": "Raipur",
+    "phone": "+91 98765 43218",
+    "healthCard": "AHS001234571",
+    "lastVisit": "2024-09-27",
+    "status": "Active",
+    "riskLevel": "Low",
+    "conditions": ["Arthritis"],
+    "medications": ["Paracetamol", "Calcium tablets"],
+    "allergies": ["Aspirin"],
+    "emergencyContact": {
+      "name": "Kiran Patel",
+      "relation": "Daughter-in-law",
+      "phone": "+91 98765 43219"
+    }
+  }
+]

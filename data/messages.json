@@ -1,0 +1,64 @@
+[
+  {
+    "id": "1",
+    "sender": "Dr. Neha Agarwal",
+    "role": "PHC Doctor",
+    "message": "Please prioritize Kamala Bai's TB follow-up. Her last sputum test results are pending.",
+    "timestamp": "2024-10-03T09:15:00Z",
+    "type": "urgent",
+    "read": false,
+    "attachments": []
+  },
+  {
+    "id": "2",
+    "sender": "Anita Gupta",
+    "role": "ANM",
+    "message": "Lakshmi Verma missed her iron supplement dose yesterday. Please remind her during today's visit.",
+    "timestamp": "2024-10-03T08:30:00Z",
+    "type": "reminder",
+    "read": false,
+    "attachments": []
+  },
+  {
+    "id": "3",
+    "sender": "Supervisor - Rajesh Kumar",
+    "role": "Block Supervisor",
+    "message": "Monthly report submission deadline is approaching. Please sync all patient data by October 5th.",
+    "timestamp": "2024-10-02T16:45:00Z",
+    "type": "admin",
+    "read": true,
+    "attachments": []
+  },
+  {
+    "id": "4",
+    "sender": "Emergency Helpline",
+    "role": "Emergency Services",
+    "message": "Voice message received from Priya Sharma's family regarding chest pain. Please respond urgently.",
+    "timestamp": "2024-10-03T07:20:00Z",
+    "type": "emergency",
+    "read": false,
+    "attachments": [
+      {
+        "type": "voice",
+        "duration": "1:23",
+        "url": "/audio/emergency-call-1.mp3"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "sender": "Health Education Team",
+    "role": "Training Department",
+    "message": "New training module available: 'Managing Pregnancy Complications in Rural Areas'. Duration: 45 minutes.",
+    "timestamp": "2024-10-01T12:00:00Z",
+    "type": "training",
+    "read": true,
+    "attachments": [
+      {
+        "type": "video",
+        "duration": "45:00",
+        "url": "/training/pregnancy-complications.mp4"
+      }
+    ]
+  }
+]
